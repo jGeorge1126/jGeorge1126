@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/Telegram-Yes-2CA5E0?style=flat&logo=telegram)](https://t.me/waitingforhope)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://yourportfolio.com)
 
-I'm a passionate [Your Profession] with expertise in [Your Skills]. I love building [Type of Projects] and exploring new technologies.
+I love building new fashion type of project and exploring new technologies.
 
 ## 🔧 Technologies & Tools
 
@@ -61,5 +61,5 @@ I'm a passionate [Your Profession] with expertise in [Your Skills]. I love build
 
 ## 📫 Let's Connect
 
-Feel free to reach out to me on [Telegram]([waitingforhope](https://t.me/waitingforhope)) or [Discord](https://discord.gg/4HVs6H4N). You can also check out my [portfolio](https://yourportfolio.com) to see more of my work.
+Feel free to reach out to me on [Telegram](https://t.me/waitingforhope) or [Discord](https://discord.gg/4HVs6H4N). You can also check out my [portfolio](https://yourportfolio.com) to see more of my work.
 

@@ -158,9 +158,9 @@ Highly skilled and detail-oriented full-stack developer with over 5 years of exp
 ---
 
 ### :fire: My Stats :
-![crveskig's GitHub stats](https://github-readme-stats.vercel.app/api?username=crveskig&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crveskig&layout=compact&theme=vision-friendly-dark)](https://github.com/crveskig/github-readme-stats)
-[![crveskig's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crveskig&theme=dark&background=000000)](https://git.io/streak-stats)
+![crveskig's GitHub stats](https://github-readme-stats.vercel.app/api?username=jGeorge1126&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jGeorge1126&layout=compact&theme=vision-friendly-dark)](https://github.com/jGeorge1126/github-readme-stats)
+[![crveskig's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jGeorge1126&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## 📫 Let's Connect
 

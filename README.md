@@ -48,7 +48,8 @@ Highly skilled and detail-oriented full-stack developer with over 5 years of exp
 
 
 ## 🚀 Projects
-
+- [Shopify Plants](https://https://www.tnnursery.net/)
+- [Shopify Ecommerce](https://ful.com)
 - [Shopify Spaceylon](https://spaceyloncanada.ca)
 - [Dating Site](https://losmagz.com)
 - [Next JS Project](https://www.seamless-digital.com)

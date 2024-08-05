@@ -11,9 +11,7 @@
 
 # Full Stack Developer! 👋
 
-[![Discord](https://img.shields.io/badge/Discord-Yes-7289DA?style=flat&logo=discord)](https://discord.gg/4HVs6H4N)
-[![Telegram](https://img.shields.io/badge/Telegram-Yes-2CA5E0?style=flat&logo=telegram)](https://t.me/waitingforhope)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://yourportfolio.com)
+
 
 Highly skilled and detail-oriented full-stack developer with over 5 years of experience designing, implementing, and maintaining web applications. Proficient in both front-end and back-end technologies, including JavaScript, React.js, Node.js, and MongoDB. Demonstrated ability to collaborate with cross-functional teams to deliver high-quality software solutions on time and within budget. Proven track record of troubleshooting and debugging complex code to optimize performance and enhance user experience. Passionate about staying up-to-date with the latest technologies and continuously improving skills through self-learning and professional development.
 
